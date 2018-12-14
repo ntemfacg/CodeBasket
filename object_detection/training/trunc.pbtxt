@@ -1,0 +1,27 @@
+﻿item {
+   name: 'nine' id: 1
+ }
+
+item {
+  name: 'ten' id: 2
+ }
+
+item {
+  name: 'jack' id: 3
+ }
+
+item {
+  name: 'queen' id: 4
+ }
+
+item {
+  name: 'king' id: 5
+ }
+
+item {
+   name: 'ace' id: 6
+ }
+
+item {
+  name: 'George' id: 7
+ }

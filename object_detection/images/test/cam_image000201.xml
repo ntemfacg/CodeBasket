@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>cam_image0002.jpg</filename>
+	<path>E:\Program Files\tensorflow1\models\research\object_detection\images\train\cam_image0002.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>George</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>264</xmin>
+			<ymin>13</ymin>
+			<xmax>1031</xmax>
+			<ymax>709</ymax>
+		</bndbox>
+	</object>
+</annotation>
