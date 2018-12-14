@@ -1,6 +1,6 @@
 
 # Object Detection
-Welcome to the object detection inference walkthrough!  This notebook will walk you step by step through the process of using a pre-trained model to detect objects in an image. Make sure to follow the [installation instructions](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/installation.md) before you start.
+Object detection notebook. Testing SSD mobilenet classifier model. Initial display before retraining model for realtime Webcam object detection.  [installation instructions](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/installation.md) before you start.
 
 # Imports
 
@@ -297,9 +297,9 @@ for image_path in TEST_IMAGE_PATHS:
 
 
 
-![png](output_21_2.png)
+![png](output_21_2[1].png)
 
 
 
-![png](output_21_3.png)
+![png](output_21_3[1].png)
 
