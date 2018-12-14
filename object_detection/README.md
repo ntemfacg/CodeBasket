@@ -1,6 +1,6 @@
 
 # Object Detection
-Object detection notebook. Testing SSD mobilenet classifier model. Initial display before retraining model for realtime Webcam object detection.  [installation instructions](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/installation.md) before you start.
+Object detection notebook. Testing SSD mobilenet classifier model. Initial display before retraining model for realtime Webcam object detection.  
 
 # Imports
 
