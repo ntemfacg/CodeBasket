@@ -1,0 +1,145 @@
+# Webalizer V2.23-08 Incremental Data - 10/23/2018 16:44:28
+2018 10 23 16 44 28
+49 49 2 10 0 0 303644 4 2 1
+1 2 12 7 23
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+9 9 5970 1 3 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+1 1 2786 1 1 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+23 23 177340 1 0 0
+14 14 69941 1 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+2 2 47607 1 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+1 1 2786 1
+0 0 0 0
+0 0 0 0
+2 2 9589 0
+12 12 60352 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+2 2 47607 0
+0 0 0 0
+11 11 91610 0
+12 12 85730 0
+0 0 0 0
+9 9 5970 3
+0 0 0 0
+0 0 0 0
+0
+0
+0
+49
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/home1/qa1rpgce/public_html/pages-patient.html
+0 1 11256000 24240 0 0
+/home1/qa1rpgce/public_html/assets/api/include/db_connect.php
+0 2 0 960 0 0
+/home1/qa1rpgce/public_html/assets/js/login.js
+0 1 0 3242 0 0
+/home1/qa1rpgce/public_html/assets/api/routes/register.php
+0 20 0 166824 0 0
+/home1/qa1rpgce/public_html/assets/api/indexTest.php
+0 3 0 1468 0 0
+/home1/qa1rpgce/public_html/assets/api/
+0 4 0 6112 2 0
+/home1/qa1rpgce/public_html/pages-consult.html
+0 1 0 23367 0 0
+/home1/qa1rpgce/public_html/pages-sign-up.html
+0 14 0 69941 0 0
+/home1/qa1rpgce/public_html/index1.php
+0 2 0 7274 0 0
+/home1/qa1rpgce/public_html/assets/api/include/Config.php
+0 1 0 216 0 0
+# End Of Table - urls
+# -sites- (monthly)
+cpc90160-cove14-2-0-cust41.3-1.cable.virginm.net
+0 32 32 183310 1 1538946765
+/home1/qa1rpgce/public_html/assets/api/
+194.66.32.1
+0 17 17 120334 1 1539318415
+/home1/qa1rpgce/public_html/assets/api/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+194.66.32.1
+0 2 2 47607 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+# End Of Table - referrers
+# -agents- 
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+qa1rpgce
+0 49 49 303644 2 1539318415
+# End Of Table - usernames

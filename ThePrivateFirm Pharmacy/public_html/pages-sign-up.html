@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="shortcut icon" href="assets/img/logo-fav.png">
+    <title>Sign Up</title>
+    <link rel="stylesheet" type="text/css" href="assets/lib/perfect-scrollbar/css/perfect-scrollbar.min.css"/>
+    <link rel="stylesheet" type="text/css" href="assets/lib/material-design-icons/css/material-design-iconic-font.min.css"/><!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <link rel="stylesheet" href="assets/css/style.css" type="text/css"/>
+  </head>
+  <body class="be-splash-screen">
+    <div class="be-wrapper be-login be-signup">
+      <div class="be-content">
+        <div class="main-content container-fluid">
+          <div class="splash-container sign-up">
+            <div class="panel panel-default panel-border-color panel-border-color-primary">
+              <div class="panel-heading"><span>THE PRIVATE FIRM PHARMACY </span><span class="splash-description">Please enter your user information.</span></div>
+              <div class="panel-body">
+                <!--<form action="index1.php" method="get">-->
+                  
+                  <div class="form-group row">
+                      <div class="col-sm-4">
+                        <div class="be-radio inline">
+                          <input type="radio" checked="" name="rad3" id="rad6">
+                          <label for="rad6">Doctor</label>
+                        </div>
+                          </div>
+                      <div class="col-sm-4">
+                        <div class="be-radio inline">
+                          <input type="radio" name="rad3" id="rad7">
+                          <label for="rad7">Pharmacist</label>
+                        </div>
+                      </div>
+                    </div>
+                  <div class="form-group">
+                    <input type="email" id="email" required="" placeholder="E-mail" autocomplete="off" class="form-control">
+                  </div>
+                    <div class="form-group">
+                    <input type="text" id="lname" required="" placeholder="Last Name" autocomplete="off" class="form-control">
+                  </div>
+                    <div class="form-group">
+                    <input type="text" id="fname" required="" placeholder="First Name" autocomplete="off" class="form-control">
+                  </div>
+                    <div class="form-group">
+                    <input type="text" id="regNumber" required="" placeholder="Registration Number" autocomplete="off" class="form-control">
+                  </div>
+                  <div class="form-group row signup-password">
+                    <div class="col-xs-6">
+                      <input id="pass1" type="password" required="" placeholder="Password" class="form-control">
+                    </div>
+                    <div class="col-xs-6">
+                      <input id="confirm" type="password" required="" placeholder="Confirm" class="form-control">
+                    </div>
+                  </div>
+                  <div class="form-group xs-pt-10">
+                    <button type="submit" id = "signup" class="btn btn-block btn-primary btn-xl">Sign Up</button>
+                  </div>
+                    <div class="splash-footer"><span>Already have an account? <a href="index.php">Sign In</a></span></div>
+                <!--</form>-->
+              </div>
+            </div>
+            <div class="splash-footer">&copy; 2018 Private Firm Pharmacy</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script src="assets/lib/jquery/jquery.min.js" type="text/javascript"></script>
+    <script src="assets/lib/perfect-scrollbar/js/perfect-scrollbar.jquery.min.js" type="text/javascript"></script>
+    <script src="assets/js/main.js" type="text/javascript"></script>
+    <script src="assets/js/login.js"></script>
+    <script src="assets/lib/bootstrap/dist/js/bootstrap.min.js" type="text/javascript"></script>
+    <script type="text/javascript">
+    $('#signup').click(function() {
+        /*console.log(2);*/
+        var $role_string = $("#role").val();
+        if (String($role_string) != "doctor"){
+            var $role = 1;
+        }else if ($role_string = "pharmacist"){
+            var $role = 2;
+        }
+        var $RegNumber = $("#regNumber").val();
+        var $last_name = $("#lname").val();
+        var $first_name = $("#fname").val();
+        var $email = $("#email").val();
+        var $password = $("#pass1").val();
+        console.log($role)
+        /*add($role, $RegNumber, $last_name, $first_name, $email, $password);*/
+        
+    });
+    </script>
+  </body>
+</html>

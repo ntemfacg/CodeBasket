@@ -1,0 +1,656 @@
+# Webalizer V2.23-08 Incremental Data - 12/14/2018 03:23:20
+2018 12 14 3 23 20
+362 234 84 86 16 40 15396831 115 73 0
+2 2 54 1 14
+32 25 6579755 7 4 4
+10 5 178262 5 4 4
+17 1 169356 8 8 5
+95 83 2744478 14 29 9
+23 7 268876 9 11 7
+14 5 240555 8 5 5
+40 33 1252074 8 7 6
+3 1 44905 2 2 2
+6 3 90400 3 3 3
+20 9 462785 10 6 6
+30 5 430274 8 17 8
+7 4 619742 5 2 2
+52 43 1548092 10 11 10
+13 10 767277 2 6 2
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+12 9 723760 6
+2 1 44211 1
+1 0 694 0
+23 17 1212426 7
+16 11 858988 2
+20 14 5803633 4
+8 3 213871 5
+17 14 1084693 3
+4 2 88422 2
+17 1 94546 8
+22 7 324199 12
+19 9 795106 7
+53 48 1706624 6
+3 1 84830 2
+6 1 45867 1
+6 3 132633 3
+8 3 173946 4
+4 0 41479 2
+5 1 126143 3
+39 33 190432 13
+63 52 1390724 15
+7 2 89250 4
+4 1 125449 3
+3 1 44905 2
+0
+0
+0
+234
+0
+0
+0
+0
+0
+0
+0
+0
+64
+0
+5
+0
+0
+0
+0
+0
+18
+37
+0
+1
+0
+0
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/assets/lib/datatables/js/dataTables.bootstrap.min.js
+0 2 0 3920 0 0
+/assets/lib/roboto/Roboto-Black.ttf
+0 1 0 180092 0 0
+/assets/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2
+0 2 0 36056 0 0
+/assets/img/avatar.png
+0 2 0 6092 0 0
+/assets/js/app-tables-datatables.js
+0 2 0 2164 0 0
+/assets/lib/roboto/Roboto-Bold.woff2
+0 2 140485853932544 127192 0 0
+/pages-sign-up.html
+0 1 3328776321158639221 0 1 0
+/assets/lib/perfect-scrollbar/css/perfect-scrollbar.min.css
+0 7 3543542564880464176 32823 0 0
+/pages-consult.html
+0 1 14346144 23365 0 0
+/assets/lib/roboto/Roboto-Medium.ttf
+0 1 0 179296 0 0
+/assets/img/logo-fav.png
+0 12 0 15408 0 0
+/.well-known/acme-challenge/zpy1x1JT8j0ZrayR6r1Pg6ClthzyuJ_4yr_052jHxv4
+0 1 0 87 0 0
+/assets/lib/jquery/jquery.min.js
+0 6 1544184039 520254 0 0
+/assets/lib/datatables/plugins/buttons/js/dataTables.buttons.js
+0 2 8027435662543236403 71234 0 0
+/assets/lib/datatables/plugins/buttons/js/buttons.html5.js
+0 2 25835868778475574 39032 0 0
+/assets/lib/roboto/Roboto-Thin.svg
+0 1 3976168520927936512 743325 0 0
+/pages-patient.html
+0 1 3618691998483822132 23853 0 0
+/assets/lib/roboto/Roboto-Thin.ttf
+0 1 3531103582835179520 179784 0 0
+/.well-known/acme-challenge/PY_yfAlcFElNBkunV6p9oKdGklEqODDQw54YTb96KI4
+0 1 3543549179113336937 87 0 0
+/assets/lib/datatables/js/jquery.dataTables.min.js
+0 2 0 165276 0 0
+/assets/lib/roboto/Roboto-Bold.svg
+0 1 0 755876 0 0
+/assets/img/avatar3.png
+0 2 0 5290 0 0
+/.well-known/acme-challenge/8e6Uu_XOs5f_CecgURm6qzXjQpSUgTlAR8UtTMaJngs
+0 1 0 87 0 0
+/assets/api/public/register/getpatients
+0 13 0 5057 2 0
+/email-inbox.html
+0 1 14355344 29274 0 0
+/.well-known/acme-challenge/8IDXW59JY6_I8G0X26P-LOAHO3H42_B2
+0 1 0 64 0 0
+/assets/lib/datatables/plugins/buttons/js/buttons.flash.js
+0 2 0 40880 0 0
+/assets/lib/roboto/Roboto-Medium.woff2
+0 4 0 259232 0 0
+/assets/lib/roboto/Roboto-Regular.ttf
+0 1 0 170564 0 0
+/assets/lib/bootstrap/dist/js/bootstrap.min.js
+0 7 0 259315 0 0
+/.well-known/acme-challenge/V5FB8K2XNE7REEW-__GJ4_DGASA_6MVP
+0 1 0 64 0 0
+/assets/img/logo-xx.png
+0 2 0 49938 0 0
+/assets/img/avatar1.png
+0 2 0 5820 0 0
+/assets/img/avatar2.png
+0 2 0 5616 0 0
+/.well-known/acme-challenge/GY61TJUTN1OHDK7T23DGYMID0MCFPOW6
+0 1 0 64 0 0
+/assets/img/mail_chimp.png
+0 2 0 10554 0 0
+/assets/lib/material-design-icons/css/material-design-iconic-font.min.css
+0 7 0 482706 0 0
+/assets/lib/jquery.maskedinput/jquery.maskedinput.min.js
+0 1 0 4324 0 0
+/.well-known/acme-challenge/QO659GCXZC5FNQQ5A9OOD9P63WI0_HSC
+0 1 0 64 0 0
+/assets/img/avatar5.png
+0 2 0 5866 0 0
+/assets/lib/material-design-icons/fonts/Material-Design-Iconic-Font.woff2
+0 4 0 153536 0 0
+/assets/lib/roboto/Roboto-Light.svg
+0 1 0 742949 0 0
+/assets/js/app-form-masks.js
+0 1 0 590 0 0
+/assets/js/login.js
+0 5 0 19160 0 0
+/.well-known/acme-challenge/KU9ZI216TNR1FZ027EJOVFFMTXHJKUE0
+0 1 0 64 0 0
+/assets/js/customers.js
+0 4 0 2731 0 0
+/demo.html
+0 1 0 0 0 0
+/.well-known/acme-challenge/UQHZFlZS1mO89JXj5auSKQyJAIR85OpW4uTpZuEEGuc
+0 1 0 87 0 0
+/assets/img/dropbox.png
+0 2 0 2906 0 0
+/.well-known/acme-challenge/xL4i9dpPZpjLgTHCGaRI7427T5q8ripgZI9AZish7fI
+0 1 0 87 0 0
+/assets/lib/datatables/plugins/buttons/js/buttons.bootstrap.js
+0 2 0 1142 0 0
+/.well-known/acme-challenge/0-LFXJAU0EKE72KQBM3M-BQPMWTTWVFP
+0 1 0 64 0 0
+/.well-known/acme-challenge/Z9INT0SE0C7QCN-NWKZBLG70RWRM_JW4
+0 1 0 64 0 0
+/assets/lib/roboto/Roboto-Regular.woff2
+0 4 0 256736 0 0
+/assets/lib/roboto/Roboto-Medium.svg
+0 1 0 753286 0 0
+/assets/img/bitbucket.png
+0 2 0 2396 0 0
+/assets/img/slack.png
+0 2 0 4968 0 0
+/assets/lib/roboto/Roboto-Light.woff2
+0 4 0 256640 0 0
+/assets/img/logo.png
+0 1 0 21298 0 0
+/assets/lib/roboto/Roboto-Light.ttf
+0 1 0 179192 0 0
+/email-compose.html
+0 1 14350896 24705 0 0
+/assets/js/main.js
+0 6 0 355932 0 0
+/table-file.html
+0 9 0 160886 1 0
+/assets/lib/roboto/Roboto-Bold.ttf
+0 1 0 169964 0 0
+/assets/lib/material-design-icons/fonts/Material-Design-Iconic-Font.ttf
+0 1 0 99212 0 0
+/assets/lib/datetimepicker/css/bootstrap-datetimepicker.min.css
+0 1 41 11288 0 0
+/.well-known/acme-challenge/YmW6oipsngQ2yYrWRKTUF1v2P48y9KzGcZeZKeEo04U
+0 1 0 87 0 0
+/.well-known/acme-challenge/ELOLHFTOO79V-EYL1XHITX5-XQR-0Y5S
+0 1 0 64 0 0
+/assets/img/dribbble.png
+0 2 0 5048 0 0
+/assets/lib/datatables/plugins/buttons/js/buttons.colVis.js
+0 2 0 7330 0 0
+/.well-known/acme-challenge/mO2E3zcLUWHFHYgPwUAlT4vRDX29GVUhHYvEdElnG_o
+0 1 0 87 0 0
+/.well-known/acme-challenge/5KE63CVYVWXYC658LBYIYDRFEBKHYUZE
+0 1 0 64 0 0
+/assets/lib/roboto/Roboto-Black.svg
+0 1 0 749296 0 0
+/assets/lib/datatables/plugins/buttons/js/buttons.print.js
+0 2 0 5790 0 0
+/index1.php
+0 40 0 140088 0 0
+/assets/img/avatar6.png
+0 2 0 5922 0 0
+/assets/img/avatar4.png
+0 2 0 5580 0 0
+/assets/img/github.png
+0 2 0 9856 0 0
+/assets/lib/datatables/css/dataTables.bootstrap.min.css
+0 2 0 8432 0 0
+/assets/lib/jqvmap/jqvmap.min.css
+0 1 14337648 613 0 0
+/assets/lib/perfect-scrollbar/js/perfect-scrollbar.jquery.min.js
+0 5 0 129265 0 0
+/assets/lib/jquery.vectormap/jquery-jvectormap-1.2.2.css
+0 1 0 692 0 0
+/assets/lib/roboto/Roboto-Regular.svg
+0 1 0 733341 0 0
+/.well-known/acme-challenge/2DAUTN_U86TVYOZLO4UOR_M6LT2OMZO3
+0 1 0 64 0 0
+/assets/css/style.css
+0 7 0 3347708 0 0
+/.well-known/acme-challenge/SYSFT2X6F7RM1JD5E3J-9LK-1PI_GSGB
+0 1 0 64 0 0
+# End Of Table - urls
+# -sites- (monthly)
+external-17-prod.plob.cz
+0 2 1 44211 1 1544271030
+-
+108.167.158.19
+0 15 15 1052 0 0
+-
+msnbot-40-77-167-173.search.msn.com
+0 8 6 2013355 0 0
+-
+ec2-34-210-38-59.us-west-2.compute.amazonaws.com
+0 2 1 44211 1 1544352714
+-
+39.98.52.133
+0 1 0 694 0 0
+-
+ec2-54-191-52-228.us-west-2.compute.amazonaws.com
+0 2 1 44211 1 1544026046
+-
+msnbot-40-77-167-124.search.msn.com
+0 7 7 2815382 0 0
+-
+crawl-66-249-73-132.googlebot.com
+0 2 1 4286 0 0
+-
+ns500894.ip-192-99-1.net
+0 2 0 166 0 0
+-
+ip-64-202-160-250.secureserver.net
+0 1 0 40619 1 1544470077
+-
+crawl-66-249-65-96.googlebot.com
+0 4 2 7878 1 1544046482
+/pages-sign-up.html
+209.17.96.202
+0 1 0 40619 1 1544439151
+-
+crawl12.bl.semrush.com
+0 1 0 226 1 1544614595
+-
+209.17.96.26
+0 1 0 40619 1 1543906465
+-
+ec2-54-175-227-153.compute-1.amazonaws.com
+0 2 0 81238 1 1544507864
+-
+77-234-65-120.pool.digikabel.hu
+0 6 3 132633 2 1543998574
+-
+209.17.97.26
+0 2 0 81238 2 1544506711
+-
+191.96.249.153
+0 2 1 44211 1 1543670540
+-
+hv3190.vds-cust.ignum.cz
+0 4 2 88422 2 1543785421
+-
+ip-51-68-88.eu
+0 7 0 938 1 1544043110
+-
+191.96.249.212
+0 2 1 44211 1 1544451615
+-
+121.ip-37-187-198.eu
+0 4 2 88422 2 1544201965
+-
+rs242829.rs.hosteurope.de
+0 14 0 49641 1 1544520421
+-
+209.17.96.10
+0 3 0 121857 3 1544705146
+-
+209.17.97.58
+0 1 0 40619 1 1543858230
+-
+crawl-66-249-65-127.googlebot.com
+0 1 0 694 0 0
+-
+4.38.35.120.broad.fz.fj.dynamic.163data.com.cn
+0 1 0 134 0 0
+-
+173.252.87.6
+0 1 1 25853 0 0
+-
+anon-40-138.vpn.ipredator.se
+0 3 1 44905 1 1544544945
+-
+173.252.87.14
+0 2 2 107342 0 0
+-
+crawl-66-249-65-125.googlebot.com
+0 3 1 85070 2 1544071393
+-
+209.17.97.10
+0 1 0 40619 1 1544500316
+-
+google-proxy-66-249-93-214.google.com
+0 1 0 40619 1 1544007738
+-
+209.17.96.50
+0 1 0 40619 1 1544191155
+-
+external-14-prod.plob.cz
+0 4 2 44211 1 1544528191
+-
+vmi224215.contaboserver.net
+0 2 1 44211 1 1544715495
+-
+377.gra1.ovh.abcd.network
+0 2 1 44211 1 1543895298
+-
+69.12.66.211.static.quadranet.com
+0 2 0 1388 0 0
+-
+ec2-52-26-4-200.us-west-2.compute.amazonaws.com
+0 2 1 44211 1 1543747750
+-
+194.44.247.218
+0 2 1 44211 1 1543679705
+-
+47.92.101.198
+0 2 0 1388 2 1544743329
+-
+39.104.231.102
+0 1 0 694 1 1544731469
+-
+msnbot-40-77-167-7.search.msn.com
+0 10 9 1617691 1 1543637559
+-
+173.252.95.2
+0 1 0 694 0 0
+-
+91.211.88.92
+0 7 0 938 1 1543833271
+-
+102.110.189.80.dyn.plus.net
+0 41 41 1335037 1 1544702985
+/assets/api/public/register/getpatients
+209.17.97.2
+0 1 0 40619 1 1544699600
+-
+209.17.96.210
+0 1 0 40619 1 1544222076
+-
+jobqueue-listener.jobqueue.netcraft.com-ue50aed36f7f511e88ef51174838d6ab1u-digitalocean-2gb
+0 1 0 134 1 1543957758
+-
+209.17.96.34
+0 1 0 40619 1 1544510967
+-
+191.109.189.80.dyn.plus.net
+0 1 1 21298 0 0
+-
+ec2-54-214-103-52.us-west-2.compute.amazonaws.com
+0 2 1 44211 1 1544195833
+-
+google-proxy-66-249-93-215.google.com
+0 2 2 4876 0 0
+-
+173.252.87.4
+0 4 4 125179 1 1543892638
+/assets/api/public/register/getpatients
+87.92.196.35.bc.googleusercontent.com
+0 1 0 40619 1 1543927772
+-
+192.0.100.18
+0 15 13 1040482 1 1544168213
+/assets/api/public/register/getpatients
+39.104.203.143
+0 1 0 694 1 1544662683
+-
+outbound1.letsencrypt.org
+0 3 3 261 0 0
+-
+lv.tidici.com
+0 2 0 268 0 0
+-
+79.110.28.125
+0 2 1 44211 1 1544465139
+-
+host86-185-91-233.range86-185.btcentralplus.com
+0 70 66 1491299 1 1543955373
+/assets/api/public/register/getpatients
+crawl-66-249-73-134.googlebot.com
+0 2 2 515289 0 0
+-
+ec2-34-221-247-97.us-west-2.compute.amazonaws.com
+0 2 1 44211 1 1543735677
+-
+209.17.97.106
+0 1 0 40619 1 1543876193
+-
+ec2-34-254-198-44.eu-west-1.compute.amazonaws.com
+0 2 1 44211 1 1543923743
+-
+crawl-66-249-73-129.googlebot.com
+0 8 6 301868 1 1544446081
+-
+msnbot-157-55-39-39.search.msn.com
+0 1 0 694 0 0
+-
+static.48.33.4.46.clients.your-server.de
+0 2 1 44211 1 1544757800
+-
+209.17.96.250
+0 1 0 40619 1 1544727466
+-
+173.252.87.2
+0 2 2 542404 0 0
+-
+msnbot-207-46-13-35.search.msn.com
+0 2 1 44211 1 1544125282
+-
+ip-217.107.197.39.lipetsk.zelenaya.net
+0 2 0 1388 0 0
+-
+173.252.87.17
+0 5 4 89777 1 1543892635
+-
+38.100.21.63
+0 11 9 723066 1 1544749180
+/pages-consult.html
+ec2-52-53-201-78.us-west-1.compute.amazonaws.com
+0 4 2 88422 2 1544683978
+-
+173.252.87.3
+0 2 2 151517 0 0
+-
+178-164-146-14.pool.digikabel.hu
+0 4 2 88422 1 1544508316
+-
+211.60.83.110.broad.fz.fj.dynamic.163data.com.cn
+0 1 0 694 0 0
+-
+ec2-35-156-224-164.eu-central-1.compute.amazonaws.com
+0 2 1 44211 1 1544595140
+-
+39.98.56.218
+0 3 0 2082 2 1544695412
+-
+216.145.11.94
+0 3 1 44905 1 1544096019
+-
+msnbot-157-55-39-48.search.msn.com
+0 1 0 694 0 0
+-
+209.17.97.82
+0 2 0 81238 2 1544112586
+-
+ec2-52-39-2-155.us-west-2.compute.amazonaws.com
+0 6 4 90990 2 1544352712
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+static.48.33.4.46.clients.your-server.de
+0 2 1 44211 1 1544757800
+-
+38.100.21.63
+0 11 9 723066 1 1544749180
+/pages-consult.html
+# End Of Table - sites (daily)
+# -referrers- 
+http://www.privatefirmpharmacy.com/index.php
+0 2
+http://www.privatefirmpharmacy.com/
+0 2
+https://brandnewblogs.com/site-browser/
+0 4
+https://www.facebook.com/
+0 2
+http://www.privatefirmpharmacy.com/index1.php
+0 1
+- (Direct Request)
+0 203
+http://privatefirmpharmacy.com/pages-sign-up.html
+0 1
+http://privatefirmpharmacy.com/assets/css/style.css
+0 19
+http://privatefirmpharmacy.com/pages-patient.html
+0 2
+https://brandnewblogs.com/site-browser
+0 2
+http://privatefirmpharmacy.com/assets/lib/material-design-icons/css/material-design-iconic-font.min.css
+0 4
+http://privatefirmpharmacy.com/index1.php
+0 24
+http://privatefirmpharmacy.com/demo.html
+0 4
+http://privatefirmpharmacy.com/table-file.html
+0 80
+http://www.google.com.hk
+0 6
+https://brandnewblogs.com/site-browser-new/
+0 4
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+0 6
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/69.0.3494.0 Safari/537.36 WordPress.com
+0 15
+Mozilla/5.0 (compatible; Nimbostratus-Bot/v1.3.2; http://cloudsystemnetworks.com)
+0 17
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:48.0) Gecko/20100101 Firefox/48.0
+0 7
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
+0 4
+Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 5.1; ru; rv:1.9.0.1) Gecko/2008070208
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:61.0) Gecko/20100101 Firefox/61.0
+0 10
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.131 Safari/537.36
+0 2
+Mozilla/5.0 (compatible; Let's Encrypt validation server; +https://www.letsencrypt.org)
+0 7
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en; rv:1.8.1.3) Gecko/20070309 Firefox/2.0.0.3
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Safari/537.36
+0 8
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:32.0) Gecko/20100101 Firefox/32.0
+0 2
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0) like Gecko
+0 4
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 9
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 29
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36
+0 4
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.101 Safari/537.36
+0 4
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Safari/537.36
+0 9
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+0 2
+Mozilla/5.0 (compatible; SemrushBot/3~bl; +http://www.semrush.com/bot.html)
+0 1
+Wget/1.17.1 (linux-gnu)
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0
+0 2
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.2)
+0 11
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+0 1
+Cpanel-HTTP-Client/1.0
+0 11
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_3) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.65 Safari/537.31
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:40.0) Gecko/20100101 Firefox/40.1
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.47 Safari/537.36
+0 2
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.63 Safari/537.31
+0 3
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.75 Safari/537.36 OPR/36.0.2130.3
+0 21
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:59.0) Gecko/20100101 Firefox/59.0
+0 3
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile S
+0 2
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.75 Safari/537.36 Google Favicon
+0 3
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+0 112
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/17.1
+0 16
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

@@ -1,0 +1,653 @@
+AWSTATS DATA FILE 7.6 (build 20161204)
+# If you remove this file, all statistics for date 201810 will be lost/reset.
+# Last config file used to build this data file was /home1/qa1rpgce/tmp/awstats/awstats.privatefirmpharmacy.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2021                
+POS_TIME 2693                
+POS_VISITOR 13176               
+POS_DAY 17917               
+POS_DOMAIN 3562                
+POS_LOGIN 3966                
+POS_ROBOT 4121                
+POS_WORMS 4779                
+POS_EMAILSENDER 4910                
+POS_EMAILRECEIVER 5053                
+POS_SESSION 18624               
+POS_SIDER 18832               
+POS_FILETYPES 5188                
+POS_DOWNLOADS 5419                
+POS_OS 5467                
+POS_BROWSER 5761                
+POS_SCREENSIZE 6999                
+POS_UNKNOWNREFERER 7073                
+POS_UNKNOWNREFERERBROWSER 7722                
+POS_ORIGIN 8107                
+POS_SEREFERRALS 8249                
+POS_PAGEREFS 8412                
+POS_SEARCHWORDS 8608                
+POS_KEYWORDS 8760                
+POS_MISC 2356                
+POS_ERRORS 8819                
+POS_CLUSTER 3822                
+POS_SIDER_404 9007                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20181101134345 1 0 9560160324715
+FirstTime 20181007021925
+LastTime 20181031110929
+LastUpdate 20181102050621 1 0 0 0 0
+TotalVisits 201                 
+TotalUnique 111                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 123                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+TotalMisc 0 0 0
+RealPlayerSupport 0 0 0
+PDFSupport 0 0 0
+DirectorSupport 0 0 0
+JavascriptDisabled 0 0 0
+QuickTimeSupport 0 0 0
+AddToFavourites 0 26 0
+FlashSupport 0 0 0
+JavaEnabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 74 169 1596291 29 33 301104
+1 97 107 55004 34 40 21040
+2 75 86 68595 11 32 1647041
+3 19 40 1053982 22 47 3971224
+4 51 73 2275233 4 4 87972
+5 11 28 703570 11 15 298489
+6 200 518 17355262 34 50 1029893
+7 881 1217 16700233 283 301 9779577
+8 446 594 7080087 110 206 4020577
+9 238 307 4915659 85 107 2268672
+10 110 126 91822 2 2 24529
+11 135 189 2727951 19 22 607946
+12 239 340 2573148 62 68 2444005
+13 150 309 9223923 30 97 4071611
+14 136 299 12294063 27 29 385064
+15 84 228 9814343 20 21 335696
+16 77 173 8596798 20 24 262099
+17 69 149 5849953 11 11 167246
+18 143 208 6584096 25 66 2298096
+19 121 151 2666313 10 10 179816
+20 80 161 6891431 41 49 325748
+21 84 127 3689998 55 60 348753
+22 82 89 60155 42 45 141790
+23 84 146 3850612 21 27 510152
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 13
+gb 3298 4915 70035198
+us 315 778 48443728
+cn 40 83 5416581
+de 7 15 1001861
+ua 7 15 1006135
+ca 6 6 25472
+il 5 14 721539
+kr 3 3 47654
+ch 1 1 3565
+ru 1 1 4417
+cl 1 1 4394
+sg 1 1 4417
+se 1 1 3561
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 14
+Googlebot/ 170 8118549 20181030224017 0
+bingpreview 28 3837848 20181008034242 0
+Googlebot\-Image/ 21 58374 20181031030035 0
+(firefox/)([0-9]\.|[0-1][0]\.) 5 20194 20181019001955 0
+PhantomJS 3 12420 20181007021926 0
+bingbot/ 3 12393 20181017094717 0
+curl 2 0 20181011140342 0
+no_user_agent 2 6888 20181013045221 0
+libwww\-perl 2 0 20181007033714 0
+Apache\-HttpClient/ 1 3462 20181014133209 0
+SafeDNSBot 1 3444 20181013071236 0
+LWP::Simple/ 1 4140 20181007021927 0
+java 1 3565 20181020214629 0
+Curl/PHP 1 4394 20181008195326 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+woff 7 58324 0 0
+css 430 52884955 0 0
+Unknown 1766 156394 0 0
+js 1312 37202758 0 0
+png 406 1561594 0 0
+woff2 448 23174272 0 0
+php 782 7274224 0 0
+html 683 4406001 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 17
+ios_iphone 18 10
+macosx9 2 1
+win7 615 220
+macosx12 6 0
+macosx 815 431
+macosx6 1 1
+macosx10 3 3
+winxp 7 6
+win10 4036 2855
+linux 124 56
+macosx7 3 3
+winlong 1 1
+macosx8 3 2
+macosx11 1 1
+win8.1 7 4
+Unknown 32 32
+linuxandroid 160 60
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 61
+chrome70.0.3538.77 56 18
+chrome32.0.1700.68 1 1
+chrome31.0.1650.57 3 3
+firefox55.0 2 2
+firefox33.0 1 1
+msie11 1 0
+chrome69.0.3452.0 27 11
+chrome60.0.3112.113 4 0
+firefox26.0 3 1
+firefox14.0.1 2 2
+msie11.0 3 0
+chrome51.0.2704.63 34 4
+chrome58.0.3029.81 1 1
+firefox46.0 1 1
+chrome43.0.2357.124 3 2
+edge17 226 48
+chrome56.0.2924.87 1 1
+netscape 1 1
+chrome31.0.1650.63 1 0
+firefox63.0 1 1
+safari7.0.1 1 0
+android 4 4
+opera11.2.3.102637 24 10
+chrome11.0.696.71 5 5
+msie9.0 4 0
+netscape5.0 4 4
+firefox50.0 4 4
+firefox40.1 1 1
+chrome3.0.195.10 1 1
+chrome69.0.3464.0 77 36
+chrome37.0.2062.124 1 1
+firefox59.0 1 1
+chrome34.0.1847.116 1 1
+chrome56.0.2924.76 44 9
+chrome25.0.1364.172 1 1
+msie8.0 496 184
+chrome50.0.2661.102 1 1
+firefox44.0 1 1
+chrome68.0.3440.106 26 10
+chrome21.0.1180.89 2 2
+firefox62.0 1 1
+chrome70.0.3538.67 50 14
+chrome67.0.3396.87 8 8
+firefox27.3 2 1
+safari12.0 42 21
+firefox42.0 1 1
+chrome58.0.3029.110 1 1
+firefox51.0 1 1
+chrome55.0.2883.95 2 0
+chrome41.0.2272.118 22 8
+firefox53.0 1 1
+safari9.0 16 9
+msie6.0 1 1
+chrome49.0.2623.75 4 2
+firefox61.0 8 3
+chrome69.0.3497.100 4550 3197
+chrome67.0.3396.79 11 3
+Unknown 19 19
+chrome66.0.3359.181 4 4
+mozilla 17 15
+firefox34.0 2 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 13
+Python/3.6_aiohttp/2.3.2 20181023040236
+Mozilla/5.0_(compatible;_ips-agent) 20181013201651
+Mozilla/4.0_(compatible;) 20181008130242
+IDG/IT_(http://spaziodati.eu/) 20181011123705
+WhatsApp/0.3.953_N 20181007211037
+Mozilla/5.0_(compatible;_Let's_Encrypt_validation_server;__https://www.letsencrypt.org) 20181007191751
+BDFetch 20181008132402
+python-requests/2.18.4 20181008051537
+Scrapy/1.5.1_(_https://scrapy.org) 20181010223455
+Mozilla 20181020214628
+Mozilla/5.0_(compatible) 20181025232823
+WWW-Mechanize/1.72 20181007033714
+Cpanel-HTTP-Client/1.0 20181007191750
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 8
+WhatsApp/0.3.953_N 20181007211037
+IDG/IT_(http://spaziodati.eu/) 20181011123705
+Python/3.6_aiohttp/2.3.2 20181023040236
+WWW-Mechanize/1.72 20181007033714
+Cpanel-HTTP-Client/1.0 20181007191750
+python-requests/2.18.4 20181008051537
+Scrapy/1.5.1_(_https://scrapy.org) 20181010223455
+BDFetch 20181008132402
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 1041 1400
+From1 4 4
+From2 1 1
+From3 1 1
+From4 2639 4428
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+https://mawords.com/privatefirmpharmacy.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 9
+206 2 8922
+403 36 4824
+404 323 843850
+301 99 31966
+406 4 904
+401 7 0
+500 30 13350
+405 44 28188
+302 554 22446525
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 81
+/assets/api/public/register/207 1 -
+/assets/img/slack.png 1 http://privatefirmpharmacy.com/
+/assets/js/app-dashboard.js 2 http://privatefirmpharmacy.com/
+/assets/api/public/register 3 -
+/db-info.php 2 -
+/assets/lib/bootstrap/dist/js/bootstrap.min.js 12 http://privatefirmpharmacy.com/
+/assets/lib/perfect-scrollbar/js/perfect-scrollbar.jquery.min.js 10 http://privatefirmpharmacy.com/
+/index1 2 http://privatefirmpharmacy.com/
+/assets/img/logo-fav.png 5 -
+/assets/lib/jquery-flot/plugins/jquery.flot.orderBars.js 2 http://privatefirmpharmacy.com/
+/public_html/ 1 -
+/assets/lib/jquery-ui/jquery-ui.min.js 2 http://privatefirmpharmacy.com/
+/assets/lib/jqvmap/jqvmap.min.css 1 http://privatefirmpharmacy.com/
+/assets/api/ 3 -
+/api/register 2 -
+/assets/lib/jquery.vectormap/jquery-jvectormap-1.2.2.css 1 http://privatefirmpharmacy.com/
+/wordpress/ 3 -
+/assets/lib/jquery/jquery.min.js 9 http://privatefirmpharmacy.com/
+/assets/img/avatar2.png 1 http://privatefirmpharmacy.com/
+/pma/index.php 1 https://google.com
+/administrator/ 3 -
+/assets/img/avatar.png 1 http://privatefirmpharmacy.com/
+/assets/lib/datetimepicker/css/bootstrap-datetimepicker.min.css 1 http://privatefirmpharmacy.com/
+/assets/lib/jqvmap/jquery.vmap.min.js 2 http://privatefirmpharmacy.com/
+/assets/public 1 -
+/assets/api/users 1 -
+/phpmyadmin/index.php 1 https://google.com
+/assets/lib/jquery-flot/jquery.flot.pie.js 2 http://privatefirmpharmacy.com/
+/assets/api/public/api/registers/207 1 -
+/assets/api/public/register/auth23 3 http://privatefirmpharmacy.com/
+/assets/api/public/api/register 1 -
+/assets/lib/jquery-flot/jquery.flot.resize.js 2 http://privatefirmpharmacy.com/
+/assets/img/dropbox.png 1 http://privatefirmpharmacy.com/
+/assets/img/avatar5.png 1 http://privatefirmpharmacy.com/
+/pages-login.html 2 http://privatefirmpharmacy.com/pages-sign-up.html
+/assets/lib/material-design-icons/css/material-design-iconic-font.min.css 8 http://privatefirmpharmacy.com/
+/wp-admin/setup-config.php 1 -
+/assets/lib/jquery-flot/jquery.flot.js 2 http://privatefirmpharmacy.com/
+/blog/robots.txt 3 -
+/assets/css/style.css 8 http://privatefirmpharmacy.com/
+/blog/ 4 -
+/assets/img/avatar4.png 1 http://privatefirmpharmacy.com/
+/assets/lib/jquery.sparkline/jquery.sparkline.min.js 2 http://privatefirmpharmacy.com/
+/assets/img/avatar3.png 1 http://privatefirmpharmacy.com/
+/assets/api/public/ 4 -
+/ 9 -
+/wp-login.php 5 -
+/assets/img/mail_chimp.png 1 http://privatefirmpharmacy.com/
+/index.html 10 http://privatefirmpharmacy.com/pages-sign-up.html
+/assets/js/main.js 11 http://privatefirmpharmacy.com/
+/assets/api/auth 20 -
+/assets/api/public/register/auth 5 http://privatefirmpharmacy.com/
+/assets/vendor 1 -
+/assets/api/public/api/register/207 2 -
+/assets/lib/font-awesome/css/font-awesome.min.css 15 http://privatefirmpharmacy.com/email-compose.html
+/index1.html 19 -
+/assets/lib/countup/countUp.min.js 2 http://privatefirmpharmacy.com/
+/wp-admin/ 3 http://privatefirmpharmacy.com/wp-login.php
+/administrator/index.php 4 http://privatefirmpharmacy.com/administrator/
+/assets/lib/jquery-flot/plugins/curvedLines.js 2 http://privatefirmpharmacy.com/
+/.git/HEAD 1 -
+/api/auth 14 http://privatefirmpharmacy.com/
+/admin 3 -
+/public_html/assets/api/ 1 -
+/assets/img/avatar1.png 1 http://privatefirmpharmacy.com/
+/db-info 2 -
+/wp-json/wp/v2/users/ 1 -
+/assets/api/public/appi.register 1 -
+/assets/img/bitbucket.png 1 http://privatefirmpharmacy.com/
+/assets/api/indexTest.php 1 -
+/api 1 -
+/wp/ 3 -
+/xmlrpc.php 2 -
+/assets/img/avatar6.png 1 http://privatefirmpharmacy.com/
+/assets/ 1 -
+/assets/img/dribbble.png 1 http://privatefirmpharmacy.com/
+/robots.txt 44 -
+/assets/img/github.png 1 http://privatefirmpharmacy.com/
+/admin.php 3 -
+/assets/lib/perfect-scrollbar/css/perfect-scrollbar.min.css 8 http://privatefirmpharmacy.com/
+/assets/lib/jqvmap/maps/jquery.vmap.world.js 2 http://privatefirmpharmacy.com/
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 123
+80.189.113.223 1524 2047 15999094 20181022160816
+194.66.32.21 1305 1937 30780322 20181019083119
+194.66.32.1 260 529 13202948 20181023172340
+82.24.138.42 164 279 4907420 20181028005002
+65.154.226.109 97 275 18801450 20181024163409
+70.42.131.170 82 216 15997876 20181026140546
+109.144.218.106 23 69 2025489 20181027202648
+108.167.158.19 11 11 796 20181007191751
+209.85.238.3 9 18 1285694 20181008205502
+34.244.128.110 8 15 1188230 20181010070806
+64.233.172.157 7 13 423590 20181018055037
+46.4.120.42 6 14 998576 20181017231109
+104.237.95.22 6 15 1003862 20181022211657
+119.27.168.193 6 13 1001144 20181008110930
+180.142.185.92 5 14 1000297 20181022211727
+34.210.38.59 5 7 19980 20181028113839
+80.189.110.24 5 13 999013 20181031065408
+173.239.53.9 5 5 20777 20181028004645
+66.249.88.59 5 7 265951 20181008205509
+80.189.115.8 5 14 1000297 20181029171539
+95.216.0.185 5 13 999013 20181030162238
+85.255.237.180 5 13 997238 20181012094003
+47.93.188.98 4 4 8419 20181009010026
+64.74.215.131 4 34 1448369 20181023030757
+163.172.4.153 4 4 14256 20181029025611
+64.74.215.154 1 1 418 20181007113337
+91.210.146.50 1 1 3561 20181017051254
+64.233.172.167 0 1 1284 
+66.133.109.36 3 3 261 20181007191751
+185.2.28.229 1 1 3561 20181016220434
+66.102.9.39 3 7 805952 20181008205501
+188.72.87.232 1 1 4417 20181011023939
+66.249.88.60 1 2 75429 20181008205508
+91.90.192.198 1 1 3561 20181016225357
+66.102.9.37 2 4 93963 20181008205503
+52.39.2.155 2 4 9591 20181028113836
+82.80.230.228 1 4 47529 20181025210036
+104.255.231.109 1 1 3565 20181024110635
+104.130.124.209 2 2 8834 20181010235927
+198.12.95.230 2 2 7919 20181014010521
+207.46.13.82 0 1 37045 
+180.163.220.4 2 4 159756 20181011152510
+61.151.179.84 1 6 215586 20181022211711
+34.219.191.165 1 1 4394 20181008154218
+64.246.165.160 1 1 3565 20181027084006
+34.208.164.152 1 1 3565 20181029191416
+64.233.172.153 4 5 208815 20181010072623
+167.114.232.244 1 1 4394 20181008173322
+157.55.39.62 0 2 85175 
+54.171.162.216 1 1 3444 20181012152646
+42.236.10.124 2 5 709068 20181011152510
+104.130.136.89 2 2 7122 20181017044454
+34.212.6.176 1 1 4394 20181010140612
+27.115.124.5 1 5 115574 20181012201451
+176.10.104.240 1 1 3565 20181031001814
+64.74.215.1 1 6 215586 20181019180819
+82.132.245.185 0 1 1284 
+82.132.232.114 0 6 100184 
+64.74.215.164 1 6 215522 20181019055032
+158.106.67.179 1 1 4394 20181008132402
+82.80.249.143 0 1 24969 
+42.236.10.117 2 4 159132 20181011152510
+82.80.249.164 0 1 18907 
+69.58.178.58 3 3 11434 20181013201651
+207.46.13.175 0 1 86709 
+218.5.21.142 1 1 4394 20181009015636
+165.227.101.192 2 2 0 20181008184330
+18.236.151.115 1 1 4394 20181008154706
+82.132.239.100 1 1 0 20181007133134
+64.74.215.138 1 6 217062 20181021192036
+64.233.172.155 2 10 1374728 20181010072623
+158.69.229.134 3 3 12269 20181015033342
+34.254.96.221 1 1 3565 20181023040236
+64.74.215.98 1 6 215586 20181024053652
+218.241.108.76 4 4 88186 20181031110929
+209.85.238.7 1 4 136250 20181008205417
+64.74.215.58 1 6 214658 20181014190347
+66.102.8.135 4 9 950101 20181010062422
+66.102.8.133 2 5 228468 20181010062422
+64.74.215.158 2 7 218845 20181021113120
+206.225.80.193 2 2 0 20181010062358
+36.251.84.243 1 1 3444 20181013172954
+34.221.239.0 2 7 215149 20181017192714
+52.26.4.200 1 1 3259 20181007113225
+185.2.196.196 1 1 4394 20181008130242
+101.91.60.11 1 1 64184 20181022211713
+34.218.251.92 1 1 4394 20181010141130
+34.211.190.6 1 1 4394 20181008164427
+27.115.124.2 0 1 25853 
+66.102.8.130 2 8 738163 20181010062421
+181.215.94.130 1 1 4394 20181008234945
+159.65.175.107 1 1 4394 20181008213129
+158.69.84.29 1 1 4415 20181008051537
+64.233.172.162 1 1 3561 20181014225023
+82.80.249.211 1 1 3565 20181025232814
+203.211.155.22 1 1 4417 20181010223455
+183.66.230.22 1 1 3493 20181012034430
+101.91.62.99 1 1 64160 20181022211713
+34.245.125.226 1 1 4417 20181010190703
+66.249.88.58 0 4 659764 
+82.80.249.212 3 6 564062 20181025232834
+34.244.176.81 1 1 4465 20181011123705
+34.242.182.154 1 1 3444 20181013163711
+82.80.244.52 0 1 62507 
+52.17.143.163 1 1 4456 20181008095113
+180.163.220.68 1 3 127058 20181011152510
+27.115.124.4 0 1 86709 
+101.91.60.107 1 1 64808 20181022211713
+103.59.156.16 3 3 47654 20181022185048
+27.115.124.3 2 4 640134 20181012201453
+104.131.100.38 1 1 0 20181020214628
+82.132.186.193 1 1 3259 20181007084207
+209.85.238.5 2 4 580344 20181008205501
+162.244.33.8 1 1 4394 20181008201501
+54.212.207.218 1 1 3565 20181018202856
+61.151.178.165 1 1 38384 20181022211715
+104.238.248.15 1 1 3297 20181007150633
+180.163.220.3 2 5 709092 20181011152510
+162.144.255.21 2 2 8280 20181007033714
+46.4.33.48 1 1 3285 20181008082729
+64.74.215.174 1 6 215586 20181023054938
+42.236.10.106 1 3 127706 20181011152510
+66.102.9.34 1 1 64184 20181008205501
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 25
+20181007 272 378 7773830 19
+20181008 207 272 7379017 31
+20181009 5 5 12813 2
+20181010 104 139 4204415 17
+20181011 190 223 2127500 15
+20181012 324 482 7863865 10
+20181013 18 61 1721385 5
+20181014 433 562 3931128 10
+20181015 146 260 5510409 4
+20181016 276 449 7143728 9
+20181017 768 1157 17186754 7
+20181018 362 486 8946018 6
+20181019 272 511 14144367 9
+20181020 22 60 4216206 6
+20181021 25 70 4485045 8
+20181022 45 128 5504339 11
+20181023 100 274 9976236 8
+20181024 17 49 3221518 4
+20181025 25 67 4718875 5
+20181026 5 13 999013 1
+20181027 24 70 2029054 2
+20181028 26 73 606859 4
+20181029 7 15 1006143 3
+20181030 5 14 1000297 1
+20181031 8 16 1009708 4
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+30s-2mn 4
+15mn-30mn 5
+1h+ 19
+0s-30s 159
+30mn-1h 7
+2mn-5mn 3
+5mn-15mn 4
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 55
+/index1.php 607 3339919 68 34
+/assets/api/public/register/auth 549 18185 2 8
+/assets/api/public/register/tst 528 35087 2 5
+/ 442 3365847 82 66
+/assets/api/public/register/tk 240 53989 0 0
+/assets/api/public/register/tkadd 113 13415 0 2
+/assets/api/ 110 6711 1 0
+/assets/api/public/register/add 104 10116 0 0
+/assets/lib/material-design-icons/fonts/Material-Design-Iconic-Font.woff2 104 3531328 3 24
+/assets/lib/roboto/Roboto-Regular.woff2 104 5904928 7 6
+/index.php 103 3922167 1 5
+/assets/lib/roboto/Roboto-Medium.woff2 103 5897528 4 13
+/assets/lib/roboto/Roboto-Light.woff2 103 5838560 5 13
+/assets/api/auth 83 8888 1 4
+/pages-sign-up.html 76 241298 9 3
+/assets/api/public/register/logout 66 5411 2 0
+/assets/api/public/register 46 8344 0 0
+/login.php 39 5261 0 0
+/assets/lib/roboto/Roboto-Bold.woff2 26 1462708 0 1
+/db-info.php 20 3458 1 1
+/pages-patient.html 16 297085 0 3
+/assets/ 15 6644 8 6
+/email-inbox.html 8 204843 0 0
+/email-compose.html 8 148170 0 0
+/assets/api/public/api/register/207 7 966 2 1
+/assets/api/public/api/register 6 574 0 0
+/.well-known/acme-challenge/4J9G6fKJFmuE3Wl6L7aD8BeH3V_p86UoixojcGhOJjY 1 87 0 0
+/assets/api/public/api/registers/207 2 340 0 0
+/assets/lib/roboto/Roboto-BoldItalic.woff2 6 411336 0 0
+/.well-known/acme-challenge/VIOEBBM4D-TMC04N4CZW7J-IP2GDXGP- 1 64 0 0
+/assets/lib/roboto/Roboto-Thin.woff2 1 62824 0 0
+/assets/api/conn.php 4 368 0 0
+/.well-known/acme-challenge/7-P7SN09Z84CN0WA-MZUYVPUDDPYH7JV 1 64 0 0
+/.well-known/acme-challenge/-8WAZUTR1GBA62ATX2ZRTLR387MXRFP9 1 64 1 0
+/pages-consult.html 5 93460 0 1
+/.well-known/acme-challenge/9wHJ5tRwvaLdXJSOl1Bs0cQmS2Pv_x6RuN82U341SjA 1 87 1 0
+/assets/css/ 1 485 0 0
+/.well-known/acme-challenge/GfGwJ5yLRpA-uHNWe47eD54-KlU8ifrmO3xkRgHZiqk 1 87 0 1
+/.well-known/acme-challenge/LM4B5M9TN718DXBF44-XRKZF4DXPR11S 1 64 0 0
+/assets/api/public/api/register/208 1 2 0 1
+/assets/api/indexTest.php 2 945 0 1
+/index1.html 1 40467 0 0
+/.well-known/acme-challenge/12ubAR3OFzGZnKthLW8C04bdB172Qs2i9Ya2rtvlBuA 1 87 0 1
+/assets/api/index.php 7 2106 0 0
+/.well-known/acme-challenge/q4v5lhqaMci7f_mIumKYI55FsfEP1l5gEvj8wZEYuSc 1 87 0 0
+/assets/api/public/register/srch 5 20 0 0
+/.well-known/acme-challenge/N5_WJVBNX0EVK7I20_WIG833GR9AC9YI 1 64 0 0
+/assets/api/register 2 0 1 0
+/assets/lib/roboto/Roboto-Black.woff2 1 65060 0 0
+/assets/css/includes/ 1 991 0 0
+/assets/lib/summernote/font/summernote.woff 7 58324 0 1
+/.well-known/acme-challenge/EMMBVVWQA__J_KAYJGKOT47EN8TQ0P4Q 1 64 0 0
+/.well-known/acme-challenge/VRVP0ZK_THEILVHRJ-2J7CX34HW2H99S 1 64 0 0
+/.well-known/acme-challenge/UGhzwf504JLnFzWhFaemW04_HeXv5xNWNa8zNNKU_U4 1 87 0 0
+/.well-known/acme-challenge/fLWA6i2ray_Fv9wm_0POxCleQIkBpdGNjzk0DOSredo 1 87 0 0
+END_SIDER

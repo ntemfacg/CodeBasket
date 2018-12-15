@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="shortcut icon" href="assets/img/logo-fav.png">
+    <title>Beagle</title>
+    <link rel="stylesheet" type="text/css" href="assets/lib/perfect-scrollbar/css/perfect-scrollbar.min.css"/>
+    <link rel="stylesheet" type="text/css" href="assets/lib/material-design-icons/css/material-design-iconic-font.min.css"/><!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <link rel="stylesheet" href="assets/css/style.css" type="text/css"/>
+  </head>
+  <body class="be-splash-screen">
+    <div class="be-wrapper be-login be-signup">
+      <div class="be-content">
+        <div class="main-content container-fluid">
+          <div class="splash-container sign-up" style="max-width: 1000px">
+            <div class="panel panel-default panel-border-color panel-border-color-primary">
+              <div class="panel-heading"><span>THE PRIVATE FIRM PHARMACY </span><span class="splash-description">Please enter the patient information.</span></div>
+              <div class="panel-body">
+                <form id="patientForm" action="" method="get">
+                    <div class="form-group row">
+                        <div class="col-xs-6">
+                    <input type="text" id="lname" required="" placeholder="Last Name" autocomplete="off" class="form-control">
+                  </div>
+                    <div class="col-xs-6">
+                    <input type="text" id="fname"  placeholder="First Name" autocomplete="off" class="form-control" required>
+                  </div>
+                    </div>
+                    <div>
+                    <label for="dob">Date Of Birth:</label>
+                    <div class="form-group row">
+                        <div class="col-xs-6">
+                    <input id="datefield" type="date" id="dob"
+                    min="1940-01-01" max="2020-20-31" class="form-control" required>
+                        </div>
+                        <div class="col-xs-6">
+                        <input type="tel" id="phone" required="" placeholder="Phone" autocomplete="off" class="form-control" required>
+                        </div>
+                    </div>
+                    </div>
+                    <div>
+                    <label for="medicalDetails">Medical Details:</label>
+                    <div class="form-group">
+                    <textarea id="history" placeholder="Patient History" class="form-control" required></textarea>
+                  </div>
+                    <div class="form-group">
+                    <textarea id="allergies" placeholder="Patient Allergies" class="form-control" required></textarea>
+                  </div>
+                    </div>
+                    <div>
+                    <label for="address">Address:</label>
+                    <div class="form-group row">
+                        <div class="col-xs-4">
+                    <input type="text" id="HouseNumber" required="" placeholder="House Number" autocomplete="off" class="form-control" required>
+                        </div>
+                        <div class="col-xs-5">
+                    <input type="text" id="road" required="" placeholder="Road" autocomplete="off" class="form-control" required>
+                        </div>
+                        <div class="col-xs-3">
+                    <input type="text" id="postCode" required="" placeholder="Post Code" autocomplete="off" class="form-control" required>
+                  </div>
+                    </div>
+                    </div>
+                  <div class="form-group xs-pt-10">
+                    <button id="addPatient" type="submit" class="btn btn-block btn-primary btn-xl">Add Patient</button>
+                  </div>  
+                </form>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script src="assets/lib/jquery/jquery.min.js" type="text/javascript"></script>
+    <script src="assets/lib/perfect-scrollbar/js/perfect-scrollbar.jquery.min.js" type="text/javascript"></script>
+    <script src="assets/js/main.js" type="text/javascript"></script>
+    <script src="assets/js/login.js"></script>
+    <script src="assets/lib/bootstrap/dist/js/bootstrap.min.js" type="text/javascript"></script>
+    <script type="text/javascript">
+    
+    $('#addPatient').click(function() {
+        /*console.log(2);*/
+        var $last_name = $("#lname").val();
+        var $first_name = $("#fname").val();
+        var $dob = $("#dob").val();
+        var $phone = $("#phone").val();
+        var $history = $("#history").val();
+        var $allergies = $("#allergies").val();
+        var $HouseNumber = $("#HouseNumber").val();
+        var $road = $("#road").val();
+        var $postCode = $("#allergies").val();
+        add($last_name, $first_name, $dob, $phone, $history, $allergies, $HouseNumber, $road, $postCode);
+        
+    });
+      $(document).ready(function(){
+      	  var today = new Date();
+          var dd = today.getDate();
+          var mm = today.getMonth()+1; //January is 0!
+          var yyyy = today.getFullYear();
+            if(dd<10){
+                dd='0'+dd
+            } 
+            if(mm<10){
+                mm='0'+mm
+            }    
+
+          today = yyyy+'-'+mm+'-'+dd;
+          document.getElementById("datefield").setAttribute("max", today);
+      	  App.init();
+      	
+      });
+    </script>
+  </body>
+</html>

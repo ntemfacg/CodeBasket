@@ -1,0 +1,83 @@
+--- 
+files: 
+  certificate: 
+    privatefirmpharmacy_com_c20dc_1e20d_1552004396_cfcae0ea87a30b19a0615438a702056b: 
+      created: '1544231997'
+      domains: 
+        - autodiscover.privatefirmpharmacy.com
+        - cpanel.privatefirmpharmacy.com
+        - mail.privatefirmpharmacy.com
+        - privatefirmpharmacy.com
+        - webdisk.privatefirmpharmacy.com
+        - webmail.privatefirmpharmacy.com
+        - www.privatefirmpharmacy.com
+      friendly_name: Cert for “privatefirmpharmacy.com” 1544231997.0
+      id: privatefirmpharmacy_com_c20dc_1e20d_1552004396_cfcae0ea87a30b19a0615438a702056b
+      is_self_signed: 0
+      issuer.commonName: Let's Encrypt Authority X3
+      issuer.organizationName: Let's Encrypt
+      modulus: c20dc58254ff779b3cb12328ce0f7bb466f6d29303d33d26928d9e32155502b55779008f9063395af21f308ff1be02f4c8adaedef5dc4cdd328b67594bcd8ba90267fc5dfaa3540c265e234129a56cc80e05fc2df7383cd5255c825cd48ec24fa2d2807edaae77e5954be5b09dd807c05373ff7207eec677e0a58665537685b7afa84f38fc05d0f447c7aee0f0ead1ab3e161e4c61da6f3e6000de3403af76aa758fc3597b1c4647b793a90ffa33f5db3ca09262587ae143c3adabc67621f4a61c00bea3c640ba9bf5fab6cc2a7b756eb63f4b6532cad94e93df5f8a1b812ff4b3ce5da5b21599656d6ed3f53a4978c7708443498246f6cfa3b13d39fe71e20d
+      modulus_length: 2048
+      not_after: '1552004396'
+      not_before: '1544228396'
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: privatefirmpharmacy.com
+      validation_type: dv
+    privatefirmpharmacy_com_c6701_8e7e1_1546730273_555ee84cb50cc838539c4d905f9be3fc: 
+      created: '1538957873'
+      domains: 
+        - autodiscover.privatefirmpharmacy.com
+        - cpanel.privatefirmpharmacy.com
+        - mail.privatefirmpharmacy.com
+        - privatefirmpharmacy.com
+        - webdisk.privatefirmpharmacy.com
+        - webmail.privatefirmpharmacy.com
+        - www.privatefirmpharmacy.com
+      friendly_name: Cert for “privatefirmpharmacy.com”
+      id: privatefirmpharmacy_com_c6701_8e7e1_1546730273_555ee84cb50cc838539c4d905f9be3fc
+      is_self_signed: 0
+      issuer.commonName: Let's Encrypt Authority X3
+      issuer.organizationName: Let's Encrypt
+      modulus: c6701bd2a7da5ec3c97e1b8a5b487d51a220227fbe64ba602e14c91306be52d9330496bea7477b1fae5a9783601e9fb990cb8b3d2c5406696d17f371b24d358d7dadd82ca7daa3abd9d9b06c61c6e7b3238936d885b01de8909edb4e95ec1744813b5a1c23e4571d6494d9351bac9a22b18716627fccbb5137960ff13e0b977ed6deda4a53a36c542b94c3ee4a61d2c0b55ff2a4117433f66372b9fdf92051d61af2512df03f7d4aebf9ba47bdd93cff77cc5b4c0bc969fef224b30b783e8935557aa527e390eabe5b17e29e80987554a17215eb146a34b1621f3ae840904961b24e98d38774562a92198443716ae4bca5fccb354a656f480f62bba79878e7e1
+      modulus_length: 2048
+      not_after: '1546730273'
+      not_before: '1538954273'
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: privatefirmpharmacy.com
+      validation_type: dv
+  key: 
+    c20dc_1e20d_5fa675294e32318cbbca3b6cf58f6f98: 
+      created: '1544231997'
+      friendly_name: Key for “privatefirmpharmacy.com” 1544231997.0
+      id: c20dc_1e20d_5fa675294e32318cbbca3b6cf58f6f98
+      modulus: c20dc58254ff779b3cb12328ce0f7bb466f6d29303d33d26928d9e32155502b55779008f9063395af21f308ff1be02f4c8adaedef5dc4cdd328b67594bcd8ba90267fc5dfaa3540c265e234129a56cc80e05fc2df7383cd5255c825cd48ec24fa2d2807edaae77e5954be5b09dd807c05373ff7207eec677e0a58665537685b7afa84f38fc05d0f447c7aee0f0ead1ab3e161e4c61da6f3e6000de3403af76aa758fc3597b1c4647b793a90ffa33f5db3ca09262587ae143c3adabc67621f4a61c00bea3c640ba9bf5fab6cc2a7b756eb63f4b6532cad94e93df5f8a1b812ff4b3ce5da5b21599656d6ed3f53a4978c7708443498246f6cfa3b13d39fe71e20d
+      modulus_length: 2048
+    c6701_8e7e1_8ae01300d61d3758ace8774f9df5deac: 
+      created: '1538957873'
+      friendly_name: Key for “privatefirmpharmacy.com”
+      id: c6701_8e7e1_8ae01300d61d3758ace8774f9df5deac
+      modulus: c6701bd2a7da5ec3c97e1b8a5b487d51a220227fbe64ba602e14c91306be52d9330496bea7477b1fae5a9783601e9fb990cb8b3d2c5406696d17f371b24d358d7dadd82ca7daa3abd9d9b06c61c6e7b3238936d885b01de8909edb4e95ec1744813b5a1c23e4571d6494d9351bac9a22b18716627fccbb5137960ff13e0b977ed6deda4a53a36c542b94c3ee4a61d2c0b55ff2a4117433f66372b9fdf92051d61af2512df03f7d4aebf9ba47bdd93cff77cc5b4c0bc969fef224b30b783e8935557aa527e390eabe5b17e29e80987554a17215eb146a34b1621f3ae840904961b24e98d38774562a92198443716ae4bca5fccb354a656f480f62bba79878e7e1
+      modulus_length: 2048
+indexes: 
+  certificate: 
+    modulus: 
+      c20dc58254ff779b3cb12328ce0f7bb466f6d29303d33d26928d9e32155502b55779008f9063395af21f308ff1be02f4c8adaedef5dc4cdd328b67594bcd8ba90267fc5dfaa3540c265e234129a56cc80e05fc2df7383cd5255c825cd48ec24fa2d2807edaae77e5954be5b09dd807c05373ff7207eec677e0a58665537685b7afa84f38fc05d0f447c7aee0f0ead1ab3e161e4c61da6f3e6000de3403af76aa758fc3597b1c4647b793a90ffa33f5db3ca09262587ae143c3adabc67621f4a61c00bea3c640ba9bf5fab6cc2a7b756eb63f4b6532cad94e93df5f8a1b812ff4b3ce5da5b21599656d6ed3f53a4978c7708443498246f6cfa3b13d39fe71e20d: 
+        privatefirmpharmacy_com_c20dc_1e20d_1552004396_cfcae0ea87a30b19a0615438a702056b: ~
+      c6701bd2a7da5ec3c97e1b8a5b487d51a220227fbe64ba602e14c91306be52d9330496bea7477b1fae5a9783601e9fb990cb8b3d2c5406696d17f371b24d358d7dadd82ca7daa3abd9d9b06c61c6e7b3238936d885b01de8909edb4e95ec1744813b5a1c23e4571d6494d9351bac9a22b18716627fccbb5137960ff13e0b977ed6deda4a53a36c542b94c3ee4a61d2c0b55ff2a4117433f66372b9fdf92051d61af2512df03f7d4aebf9ba47bdd93cff77cc5b4c0bc969fef224b30b783e8935557aa527e390eabe5b17e29e80987554a17215eb146a34b1621f3ae840904961b24e98d38774562a92198443716ae4bca5fccb354a656f480f62bba79878e7e1: 
+        privatefirmpharmacy_com_c6701_8e7e1_1546730273_555ee84cb50cc838539c4d905f9be3fc: ~
+    subject.commonName: 
+      privatefirmpharmacy.com: 
+        privatefirmpharmacy_com_c20dc_1e20d_1552004396_cfcae0ea87a30b19a0615438a702056b: ~
+        privatefirmpharmacy_com_c6701_8e7e1_1546730273_555ee84cb50cc838539c4d905f9be3fc: ~
+uniques: 
+  certificate: 
+    friendly_name: 
+      Cert for “privatefirmpharmacy.com”: privatefirmpharmacy_com_c6701_8e7e1_1546730273_555ee84cb50cc838539c4d905f9be3fc
+      Cert for “privatefirmpharmacy.com” 1544231997.0: privatefirmpharmacy_com_c20dc_1e20d_1552004396_cfcae0ea87a30b19a0615438a702056b
+  key: 
+    friendly_name: 
+      Key for “privatefirmpharmacy.com”: c6701_8e7e1_8ae01300d61d3758ace8774f9df5deac
+      Key for “privatefirmpharmacy.com” 1544231997.0: c20dc_1e20d_5fa675294e32318cbbca3b6cf58f6f98
+    modulus: 
+      c20dc58254ff779b3cb12328ce0f7bb466f6d29303d33d26928d9e32155502b55779008f9063395af21f308ff1be02f4c8adaedef5dc4cdd328b67594bcd8ba90267fc5dfaa3540c265e234129a56cc80e05fc2df7383cd5255c825cd48ec24fa2d2807edaae77e5954be5b09dd807c05373ff7207eec677e0a58665537685b7afa84f38fc05d0f447c7aee0f0ead1ab3e161e4c61da6f3e6000de3403af76aa758fc3597b1c4647b793a90ffa33f5db3ca09262587ae143c3adabc67621f4a61c00bea3c640ba9bf5fab6cc2a7b756eb63f4b6532cad94e93df5f8a1b812ff4b3ce5da5b21599656d6ed3f53a4978c7708443498246f6cfa3b13d39fe71e20d: c20dc_1e20d_5fa675294e32318cbbca3b6cf58f6f98
+      c6701bd2a7da5ec3c97e1b8a5b487d51a220227fbe64ba602e14c91306be52d9330496bea7477b1fae5a9783601e9fb990cb8b3d2c5406696d17f371b24d358d7dadd82ca7daa3abd9d9b06c61c6e7b3238936d885b01de8909edb4e95ec1744813b5a1c23e4571d6494d9351bac9a22b18716627fccbb5137960ff13e0b977ed6deda4a53a36c542b94c3ee4a61d2c0b55ff2a4117433f66372b9fdf92051d61af2512df03f7d4aebf9ba47bdd93cff77cc5b4c0bc969fef224b30b783e8935557aa527e390eabe5b17e29e80987554a17215eb146a34b1621f3ae840904961b24e98d38774562a92198443716ae4bca5fccb354a656f480f62bba79878e7e1: c6701_8e7e1_8ae01300d61d3758ace8774f9df5deac

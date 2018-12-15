@@ -1,0 +1,21 @@
+<?php
+
+ // 1- connect to db
+
+$host="localhost";
+
+$user="qa1rpgce_dbuser";
+
+$password="dW^~v)G^*_J45vL8";
+
+$database="qa1rpgce_privateFirmDB";
+
+$connect=  mysqli_connect($host, $user, $password, $database);
+
+if(mysqli_connect_errno())
+
+{ die("cannot connect to database field:". mysqli_connect_error());  
+}/*else{
+	echo "connected";				
+}*/
+?>

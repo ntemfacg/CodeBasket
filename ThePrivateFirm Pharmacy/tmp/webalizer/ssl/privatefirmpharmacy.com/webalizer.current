@@ -1,0 +1,430 @@
+# Webalizer V2.23-08 Incremental Data - 12/14/2018 02:47:34
+2018 12 14 2 47 34
+129 44 63 37 2 23 4911402 79 75 0
+1 1 39 1 14
+38 36 1448235 2 2 2
+3 1 84830 2 2 2
+3 0 81290 3 3 3
+8 0 715559 7 8 8
+0 0 0 0 0 0
+7 0 200692 7 5 5
+34 5 1012197 26 29 26
+0 0 0 0 0 0
+2 1 44211 1 1 1
+10 0 200834 10 10 10
+12 1 723029 10 11 10
+4 0 678 4 2 2
+7 0 399795 5 5 5
+1 0 52 1 1 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+1 0 52 1
+1 0 158519 1
+1 0 52 1
+1 0 40619 1
+1 0 40619 1
+2 0 81238 2
+9 1 45793 8
+1 0 158598 1
+1 0 35 1
+2 0 317038 2
+5 2 247020 3
+4 0 678 2
+4 0 239792 4
+2 0 1388 0
+1 0 40619 1
+4 0 40758 4
+1 0 40619 1
+6 0 557005 6
+3 0 121857 3
+1 0 0 1
+65 39 2105756 24
+3 0 357736 3
+9 2 274992 7
+1 0 40619 1
+0
+0
+0
+44
+0
+0
+0
+0
+0
+0
+0
+0
+28
+0
+0
+0
+0
+10
+33
+0
+0
+4
+0
+10
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/assets/img/avatar.png
+0 1 8319045105058736492 3046 0 0
+/assets/lib/perfect-scrollbar/css/perfect-scrollbar.min.css
+0 1 0 4689 0 0
+/assets/img/logo-fav.png
+0 1 0 1284 0 0
+/assets/js/app-dashboard.js
+0 1 0 8984 0 0
+/assets/lib/jqvmap/maps/jquery.vmap.world.js
+0 1 0 60599 0 0
+/assets/lib/jquery-flot/jquery.flot.resize.js
+0 1 0 3314 0 0
+/assets/lib/jquery/jquery.min.js
+0 1 0 86709 0 0
+/assets/lib/jquery-flot/plugins/jquery.flot.orderBars.js
+0 1 0 6039 0 0
+/assets/img/avatar3.png
+0 1 0 2645 0 0
+/assets/lib/jquery-ui/jquery-ui.min.js
+0 1 0 240427 0 0
+/assets/lib/bootstrap/dist/js/bootstrap.min.js
+0 1 0 37045 0 0
+/assets/img/avatar1.png
+0 1 0 2910 0 0
+/assets/img/avatar2.png
+0 1 0 2808 0 0
+/assets/lib/jquery.sparkline/jquery.sparkline.min.js
+0 1 0 43126 0 0
+/assets/img/mail_chimp.png
+0 1 0 5277 0 0
+/assets/lib/material-design-icons/css/material-design-iconic-font.min.css
+0 1 0 68958 0 0
+/assets/img/avatar5.png
+0 1 0 2933 0 0
+/assets/js/login.js
+0 1 0 3832 0 0
+/assets/img/dropbox.png
+0 1 0 1453 0 0
+/assets/lib/jqvmap/jquery.vmap.min.js
+0 1 0 21057 0 0
+/assets/img/bitbucket.png
+0 1 0 1198 0 0
+/assets/img/slack.png
+0 1 0 2484 0 0
+/assets/lib/countup/countUp.min.js
+0 1 0 3364 0 0
+/assets/lib/jquery-flot/jquery.flot.pie.js
+0 1 0 23809 0 0
+/assets/js/main.js
+0 1 0 59322 0 0
+/assets/lib/datetimepicker/css/bootstrap-datetimepicker.min.css
+0 1 0 11288 0 0
+/assets/lib/jquery-flot/jquery.flot.js
+0 1 0 122971 0 0
+/assets/img/dribbble.png
+0 1 0 2524 0 0
+/assets/lib/jquery-flot/plugins/curvedLines.js
+0 1 0 16821 0 0
+/index1.php
+0 8 0 28736 0 0
+/assets/img/avatar6.png
+0 1 0 2961 0 0
+/assets/img/avatar4.png
+0 1 0 2790 0 0
+/assets/img/github.png
+0 1 0 4928 0 0
+/assets/lib/jqvmap/jqvmap.min.css
+0 1 0 613 0 0
+/assets/lib/perfect-scrollbar/js/perfect-scrollbar.jquery.min.js
+0 1 0 25853 0 0
+/assets/lib/jquery.vectormap/jquery-jvectormap-1.2.2.css
+0 1 0 692 0 0
+/assets/css/style.css
+0 1 0 478244 0 0
+# End Of Table - urls
+# -sites- (monthly)
+138.197.14.143
+0 1 0 226 1 1544423335
+-
+209.17.97.74
+0 2 0 158650 2 1544723766
+-
+209.17.96.234
+0 1 0 52 1 1543955516
+-
+23.27.155.161
+0 2 0 47443 1 1544212930
+-
+planetlab5.net.in.tum.de
+0 2 0 0 2 1544641741
+-
+209.17.96.194
+0 1 0 158519 1 1543888292
+-
+206.206.108.107
+0 1 0 27811 1 1544213045
+-
+209.17.96.202
+0 1 0 52 1 1544142910
+-
+209.17.96.26
+0 1 0 52 1 1544755654
+-
+crawl2.bl.semrush.com
+0 1 0 226 1 1544614248
+-
+38.130.183.177
+0 2 1 44211 1 1544222557
+-
+ec2-54-175-227-153.compute-1.amazonaws.com
+0 2 0 81238 1 1544507848
+-
+209.17.97.26
+0 2 0 317038 2 1544184199
+-
+crawl-66-249-65-108.googlebot.com
+0 3 0 2082 0 0
+-
+185.252.151.162
+0 1 0 27750 1 1544212945
+-
+researchscan19.comsys.rwth-aachen.de
+0 1 0 40619 1 1543708193
+-
+h104-192-172-60.ip4.unmetered.zone
+0 1 0 52 1 1544212850
+-
+209.17.97.66
+0 3 0 357657 3 1544732343
+-
+209.17.97.58
+0 2 0 40671 2 1544206584
+-
+209.17.97.34
+0 1 0 35 1 1544214394
+-
+h104-192-172-8.ip4.unmetered.zone
+0 1 0 52 1 1544213216
+-
+209.17.96.42
+0 2 0 87 2 1544560718
+-
+38.130.178.96
+0 1 0 52 1 1544222864
+-
+209.17.97.98
+0 2 0 317117 2 1544217535
+-
+209.17.97.122
+0 2 0 81238 2 1544533189
+-
+209.17.96.50
+0 2 0 40654 2 1544474555
+-
+185.252.151.141
+0 1 0 52 1 1544212876
+-
+209.17.97.90
+0 3 0 239836 3 1544543542
+-
+38.79.214.147
+0 4 2 88422 1 1544213121
+-
+23.27.153.40
+0 1 0 52 1 1544222863
+-
+38.130.185.40
+0 1 0 52 1 1544213208
+-
+209.17.97.114
+0 1 0 40619 1 1544157228
+-
+alienware.netdude.ca
+0 1 0 27751 1 1544212941
+-
+209.17.96.242
+0 1 0 158598 1 1544566934
+-
+researchscan26.comsys.rwth-aachen.de
+0 37 36 1407616 1 1543696136
+-
+ec2-13-57-233-99.us-west-1.compute.amazonaws.com
+0 2 1 44211 1 1544509773
+-
+209.17.97.2
+0 1 0 35 1 1543913532
+-
+206.206.102.63
+0 1 0 52 1 1544212837
+-
+209.17.97.42
+0 1 0 52 1 1544741545
+-
+fdvnsxzk.huuunjbratf.com
+0 1 0 226 1 1544422760
+-
+209.17.96.34
+0 1 0 40619 1 1544554534
+-
+104.222.39.227
+0 2 1 44211 1 1544213153
+-
+209.17.96.18
+0 2 0 40654 2 1544457298
+-
+crawl16.bl.semrush.com
+0 1 0 226 0 0
+-
+159.65.41.99
+0 1 0 226 1 1544423696
+-
+209.17.97.18
+0 1 0 158598 1 1544127084
+-
+209.17.96.226
+0 2 0 81238 2 1544711976
+-
+159.65.185.79
+0 1 0 226 1 1544423339
+-
+209.17.97.50
+0 1 0 158598 1 1544177470
+-
+185.252.151.12
+0 1 0 52 1 1544213225
+-
+crawl13.bl.semrush.com
+0 1 0 226 0 0
+-
+209.17.96.58
+0 2 0 317117 2 1544549150
+-
+138.197.79.8
+0 1 0 226 1 1544422635
+-
+185.252.151.62
+0 2 0 47382 1 1544213050
+-
+38.130.176.39
+0 1 0 27816 1 1544222676
+-
+h104-192-172-29.ip4.unmetered.zone
+0 1 0 27812 1 1544213047
+-
+crawl-66-249-65-106.googlebot.com
+0 1 0 694 0 0
+-
+138.197.72.222
+0 1 0 226 1 1544424112
+-
+206.206.108.33
+0 2 1 44211 1 1544222681
+-
+jobqueue-listener.jobqueue.netcraft.com-ue7fc5bbefc6f11e89494603a838d6ab1u-digitalocean
+0 1 0 226 1 1544421856
+-
+researchscan20.comsys.rwth-aachen.de
+0 1 0 40619 1 1543719730
+-
+209.17.96.218
+0 1 0 40619 1 1543852824
+-
+ec2-52-39-2-155.us-west-2.compute.amazonaws.com
+0 4 2 88422 2 1544352713
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+209.17.96.26
+0 1 0 52 1 1544755654
+-
+# End Of Table - sites (daily)
+# -referrers- 
+https://www.privatefirmpharmacy.com/
+0 1
+- (Direct Request)
+0 128
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
+0 2
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
+0 7
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+0 1
+Mozilla/5.0 (compatible; Nimbostratus-Bot/v1.3.2; http://cloudsystemnetworks.com)
+0 39
+Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
+0 7
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Safari/537.36
+0 4
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 4
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36
+0 2
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+0 2
+Mozilla/5.0 (compatible; SemrushBot/3~bl; +http://www.semrush.com/bot.html)
+0 3
+Mozilla/5.0 zgrab/0.x (compatible; Researchscan/t12sns; +http://researchscan.comsys.rwth-aachen.de)
+0 1
+Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5355d Safari/8536.2
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 Mobile/14E304 
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.85 Safari/537.36
+0 2
+Mozilla/5.0 zgrab/0.x (compatible; Researchscan/t12ca; +http://researchscan.comsys.rwth-aachen.de)
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 6.1; fr-FR) AppleWebKit/533.20.25 (KHTML, like Gecko) Version/5.0.4 Safari/533.20.27
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+0 2
+Mozilla/5.0 (Linux; Android 7.0; SM-G925W8 Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.98 Mobile Sa
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+0 4
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 10_2_1 like Mac OS X) AppleWebKit/602.4.6 (KHTML, like Gecko) Version/10.0 Mobile/14D27 Sa
+0 4
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:50.0) Gecko/20100101 Firefox/50.0
+0 37
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

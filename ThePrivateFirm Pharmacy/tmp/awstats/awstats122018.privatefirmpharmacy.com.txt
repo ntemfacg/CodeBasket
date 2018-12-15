@@ -1,0 +1,386 @@
+AWSTATS DATA FILE 7.6 (build 20161204)
+# If you remove this file, all statistics for date 201812 will be lost/reset.
+# Last config file used to build this data file was /home1/qa1rpgce/tmp/awstats/awstats.privatefirmpharmacy.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2021                
+POS_TIME 2686                
+POS_VISITOR 7639                
+POS_DAY 9023                
+POS_DOMAIN 3358                
+POS_LOGIN 3665                
+POS_ROBOT 3820                
+POS_WORMS 4148                
+POS_EMAILSENDER 4279                
+POS_EMAILRECEIVER 4422                
+POS_SESSION 9382                
+POS_SIDER 9558                
+POS_FILETYPES 4557                
+POS_DOWNLOADS 4754                
+POS_OS 4802                
+POS_BROWSER 5009                
+POS_SCREENSIZE 5503                
+POS_UNKNOWNREFERER 5577                
+POS_UNKNOWNREFERERBROWSER 5805                
+POS_ORIGIN 5925                
+POS_SEREFERRALS 6060                
+POS_PAGEREFS 6204                
+POS_SEARCHWORDS 6516                
+POS_KEYWORDS 6668                
+POS_MISC 2350                
+POS_ERRORS 6727                
+POS_CLUSTER 3521                
+POS_SIDER_404 6863                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20181214032320 64 15024 8245265656824
+FirstTime 0
+LastTime 20181214032320
+LastUpdate 20181214060746 64 0 64 0 0
+TotalVisits 36                  
+TotalUnique 32                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 34                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+DirectorSupport 0 0 0
+TotalMisc 0 0 0
+RealPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+FlashSupport 0 0 0
+PDFSupport 0 0 0
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 3 9 641828 3 3 81932
+1 1 1 3592 1 1 40619
+2 0 0 0 0 1 694
+3 7 16 1005045 7 7 207381
+4 0 0 0 4 16 858988
+5 1 1 3592 13 19 5800041
+6 3 3 10776 5 5 203095
+7 6 14 1003372 3 3 81321
+8 2 2 7184 2 2 81238
+9 0 0 0 10 17 94546
+10 4 7 38234 13 15 285965
+11 4 5 15652 9 14 779454
+12 9 42 1338629 5 11 367995
+13 0 0 0 3 3 84830
+14 0 0 0 6 6 45867
+15 3 3 10776 3 3 121857
+16 2 2 7184 5 6 166762
+17 0 0 0 4 4 41479
+18 1 1 3592 4 4 122551
+19 29 34 104214 4 5 86218
+20 16 54 1388398 7 9 2326
+21 1 1 3592 5 6 85658
+22 1 1 3592 3 3 121857
+23 1 1 3592 2 2 41313
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 7
+us 48 74 2705698
+gb 35 112 2847634
+hu 5 5 17960
+cz 2 2 7184
+ua 2 2 7184
+de 1 1 3592
+se 1 1 3592
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 5
+bingbot/ 23 6408013 20181206194123 0
+Googlebot/ 13 790452 20181212113430 0
+no_user_agent 4 14368 20181210142017 0
+(firefox/)([0-9]\.|[0-1][0]\.) 1 3592 20181204034818 0
+Wget/ 1 0 20181211113631 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 7
+css 20 2780480 0 0
+php 29 104168 0 0
+woff2 20 1089392 0 0
+Unknown 31 6370 0 0
+js 42 1187793 0 0
+png 41 162558 0 0
+html 14 262083 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 12
+macosx10 1 1
+win2003 9 3
+win7 5 5
+macosx9 2 2
+linux 18 9
+macosx12 4 2
+macosx 4 4
+winxp 1 1
+win8.1 2 2
+macosx8 1 1
+Unknown 18 18
+win10 132 46
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 23
+chrome67.0.3396.87 4 4
+chrome26.0.1410.65 1 1
+edge17 15 6
+firefox32.0 1 1
+msie7.0 9 3
+chrome60.0.3112.113 2 0
+chrome26.0.1410.63 1 1
+chrome60.0.3112.101 2 2
+firefox52.0 1 1
+mozilla 8 8
+chrome70.0.3538.110 112 35
+Unknown 11 11
+chrome34.0.1847.131 1 1
+msie11.0 2 2
+firefox40.1 1 1
+chrome35.0.1916.47 1 1
+chrome61.0.3163.100 2 2
+firefox54.0 1 1
+firefox61.0 5 5
+chrome62.0.3202.94 1 1
+firefox59.0 1 1
+chrome69.0.3494.0 13 5
+chrome49.0.2623.75 2 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+Cpanel-HTTP-Client/1.0 20181207191952
+Mozilla/5.0_(compatible;_Let's_Encrypt_validation_server;__https://www.letsencrypt.org) 20181207191954
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+Cpanel-HTTP-Client/1.0 20181207191952
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 53 62
+From1 0 0
+From2 0 0
+From3 6 6
+From4 35 129
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 4
+https://brandnewblogs.com/site-browser/ 2 2
+https://brandnewblogs.com/site-browser-new/ 2 2
+https://brandnewblogs.com/site-browser 1 1
+https://www.facebook.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+302 64 2558997
+409 3 249
+403 18 2412
+406 1 226
+404 37 25678
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 19
+//js/admin.js 1 -
+/connectors/system/phpthumb.php 2 -
+//wp-login.php 1 http://www.google.com.hk
+/blog/ 1 -
+/robots.txt 13 -
+//xmlrpc.php 1 http://www.google.com.hk
+/test/wp-admin/ 2 -
+/wordpress/ 1 -
+/joomla/administrator/index.php 1 -
+/xmlrpc.php 1 -
+/blog/administrator/index.php 1 -
+/blog/wp-admin/ 2 -
+/.env 1 -
+/wp/ 1 -
+/joomla/robots.txt 1 -
+/uploadify/com/adobe/images/admins.php 2 -
+/blog/robots.txt 2 -
+/administrator/index.php 1 -
+/wordpress/wp-admin/ 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 34
+86.185.91.233 27 70 1491299 20181204202933
+108.167.158.19 15 15 1052 20181207191954
+80.189.110.102 8 41 1335037 20181213120950
+192.0.100.18 5 13 999780 20181207073653
+77.234.65.120 3 3 10776 20181205082934
+66.133.109.36 3 3 261 20181207191954
+38.100.21.63 3 9 641828 20181214005940
+52.39.2.155 2 4 9752 20181209105152
+173.252.87.4 2 4 125179 20181204030358
+62.109.130.190 2 2 7184 20181202211702
+178.164.146.14 2 2 7184 20181211060517
+52.53.201.78 2 2 7184 20181213065258
+35.156.224.164 1 1 3592 20181212061221
+52.26.4.200 1 1 3592 20181202104911
+34.254.198.44 1 1 3592 20181204114225
+34.210.38.59 1 1 3592 20181209105155
+207.154.240.6 1 1 3592 20181208121031
+34.221.247.97 1 1 3592 20181202072806
+54.191.52.228 1 1 3592 20181205160727
+173.212.240.51 1 1 3592 20181213153816
+79.110.28.125 1 1 3592 20181210180540
+46.246.40.138 1 1 3592 20181211161546
+46.4.33.48 1 1 3592 20181214032320 20181214032320 /index1.php
+54.214.103.52 1 1 3592 20181207151713
+173.252.87.2 1 2 542404 20181204030357
+80.189.109.191 0 1 21298 
+173.252.87.3 1 2 151517 20181204030357
+173.252.87.6 0 1 25853 
+216.145.11.94 1 1 3592 20181206113339
+138.68.73.215 1 1 3592 20181211113632
+173.252.87.17 1 4 49158 20181204030355
+194.44.247.218 1 1 3592 20181201155506
+66.249.93.215 1 2 4876 20181205110218
+173.252.87.14 1 2 107342 20181204030357
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 14
+20181201 2 2 7184 2
+20181202 4 5 15652 4
+20181203 1 1 3592 1
+20181204 34 86 2496344 7
+20181205 4 5 15652 3
+20181206 1 2 24890 1
+20181207 24 32 1004685 4
+20181208 1 1 3592 1
+20181209 2 3 8468 2
+20181210 2 2 7184 2
+20181211 4 4 14368 3
+20181212 1 1 3592 1
+20181213 10 43 1342221 3
+20181214 4 10 645420 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+0s-30s 32
+15mn-30mn 1
+1h+ 1
+5mn-15mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 32
+/index1.php 29 104168 27 25
+/assets/api/public/register/getpatients 13 5057 1 2
+/table-file.html 9 160886 1 0
+/assets/lib/material-design-icons/fonts/Material-Design-Iconic-Font.woff2 4 153536 1 1
+/assets/lib/roboto/Roboto-Medium.woff2 4 259232 1 2
+/assets/lib/roboto/Roboto-Light.woff2 4 256640 1 1
+/assets/lib/roboto/Roboto-Regular.woff2 4 256736 1 0
+/assets/lib/roboto/Roboto-Bold.woff2 2 127192 0 0
+/assets/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2 2 36056 0 1
+/.well-known/acme-challenge/2DAUTN_U86TVYOZLO4UOR_M6LT2OMZO3 1 64 1 0
+/.well-known/acme-challenge/UQHZFlZS1mO89JXj5auSKQyJAIR85OpW4uTpZuEEGuc 1 87 0 0
+/.well-known/acme-challenge/SYSFT2X6F7RM1JD5E3J-9LK-1PI_GSGB 1 64 0 0
+/.well-known/acme-challenge/xL4i9dpPZpjLgTHCGaRI7427T5q8ripgZI9AZish7fI 1 87 1 0
+/.well-known/acme-challenge/Z9INT0SE0C7QCN-NWKZBLG70RWRM_JW4 1 64 0 0
+/pages-patient.html 1 23853 0 0
+/.well-known/acme-challenge/zpy1x1JT8j0ZrayR6r1Pg6ClthzyuJ_4yr_052jHxv4 1 87 0 1
+/.well-known/acme-challenge/5KE63CVYVWXYC658LBYIYDRFEBKHYUZE 1 64 0 0
+/.well-known/acme-challenge/mO2E3zcLUWHFHYgPwUAlT4vRDX29GVUhHYvEdElnG_o 1 87 0 1
+/.well-known/acme-challenge/8e6Uu_XOs5f_CecgURm6qzXjQpSUgTlAR8UtTMaJngs 1 87 0 0
+/.well-known/acme-challenge/8IDXW59JY6_I8G0X26P-LOAHO3H42_B2 1 64 0 0
+/.well-known/acme-challenge/ELOLHFTOO79V-EYL1XHITX5-XQR-0Y5S 1 64 0 0
+/.well-known/acme-challenge/GY61TJUTN1OHDK7T23DGYMID0MCFPOW6 1 64 0 0
+/.well-known/acme-challenge/V5FB8K2XNE7REEW-__GJ4_DGASA_6MVP 1 64 0 0
+/email-inbox.html 1 29274 0 0
+/demo.html 1 0 0 0
+/pages-consult.html 1 23365 0 1
+/.well-known/acme-challenge/YmW6oipsngQ2yYrWRKTUF1v2P48y9KzGcZeZKeEo04U 1 87 0 0
+/.well-known/acme-challenge/KU9ZI216TNR1FZ027EJOVFFMTXHJKUE0 1 64 0 0
+/.well-known/acme-challenge/PY_yfAlcFElNBkunV6p9oKdGklEqODDQw54YTb96KI4 1 87 0 0
+/email-compose.html 1 24705 1 0
+/.well-known/acme-challenge/0-LFXJAU0EKE72KQBM3M-BQPMWTTWVFP 1 64 0 0
+/.well-known/acme-challenge/QO659GCXZC5FNQQ5A9OOD9P63WI0_HSC 1 64 0 0
+END_SIDER
