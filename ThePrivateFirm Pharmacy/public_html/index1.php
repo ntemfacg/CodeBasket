@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="description" content="">
     <meta name="author" content="">
-    <link rel="shortcut icon" href="assets/img/logo-fav.png">
+    <link rel="shortcut icon" href="assets/img/icon-01.png">
     <title>Private Firm</title>
     <link rel="stylesheet" type="text/css" href="assets/lib/perfect-scrollbar/css/perfect-scrollbar.min.css"/>
     <link rel="stylesheet" type="text/css" href="assets/lib/material-design-icons/css/material-design-iconic-font.min.css"/><!--[if lt IE 9]>
@@ -53,21 +53,10 @@
     <script src="assets/lib/jquery/jquery.min.js" type="text/javascript"></script>
     <script src="assets/lib/perfect-scrollbar/js/perfect-scrollbar.jquery.min.js" type="text/javascript"></script>
     <script src="assets/js/main.js" type="text/javascript"></script>
+    <script src="assets/js/login_handler.js"></script>
     <script src="assets/js/login.js"></script>
     <script src="assets/lib/bootstrap/dist/js/bootstrap.min.js" type="text/javascript"></script>
     <script type="text/javascript">
-    $(document).ready(function(){
-      	//initialize the javascript
-      	/*login_session();*/
-      	get_all_patients();
-      	$('#login').click(function() {
-        var $RegNumber = $("#username").val();
-        var $password = $("#password").val();
-        findById($RegNumber, $password);
-        });
-      	App.init();
-      });
-
       
     </script>
   </body>

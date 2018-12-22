@@ -76,24 +76,8 @@
     <script src="assets/js/main.js" type="text/javascript"></script>
     <script src="assets/js/login.js"></script>
     <script src="assets/lib/bootstrap/dist/js/bootstrap.min.js" type="text/javascript"></script>
+    <script src="assets/js/sign_up_handler.js"></script>
     <script type="text/javascript">
-    $('#signup').click(function() {
-        /*console.log(2);*/
-        var $role_string = $("#role").val();
-        if (String($role_string) != "doctor"){
-            var $role = 1;
-        }else if ($role_string = "pharmacist"){
-            var $role = 2;
-        }
-        var $RegNumber = $("#regNumber").val();
-        var $last_name = $("#lname").val();
-        var $first_name = $("#fname").val();
-        var $email = $("#email").val();
-        var $password = $("#pass1").val();
-        console.log($role)
-        /*add($role, $RegNumber, $last_name, $first_name, $email, $password);*/
-        
-    });
     </script>
   </body>
 </html>
