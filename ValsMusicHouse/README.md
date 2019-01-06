@@ -1,5 +1,5 @@
-ReadMe.init
+ValsMusicHouse Project (posts page)
 
 
 ![alt text](music_posts.png)
-![alt text](musci_posts_scrolled.png)
+![alt text](music_posts_scrolled.png)
