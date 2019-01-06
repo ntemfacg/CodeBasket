@@ -6813,7 +6813,7 @@ body.boxed {
 }
 
 .header_color {
-	background-color: #19bcdb;
+	background-color: #ffffff;
 }
 
 .header_transparent {
@@ -9207,7 +9207,7 @@ body.active-side-header.slide-right .page_header_side {
 */
 .cs.main_color2,
 .cs.main_bg_color2 {
-	background-color: #ec5c42;
+	background-color: #080708;
 }
 
 .cs.main_color2 .highlight,
@@ -12011,7 +12011,7 @@ widget_mailchimp
 .widget_mailchimp .form-group + .theme_button,
 .page_header
 .widget_mailchimp .form-group + .theme_button {
-	height: 40px;
+	height: 20px;
 	width: 40px;
 }
 
@@ -12047,7 +12047,7 @@ widget_pages
 }
 
 .ds .widget_recent_entries h6 a {
-	color: rgba(255, 255, 255, 0.8);
+	color: rgba(255, 255, 255, 255);
 }
 
 .text-center .widget_recent_entries h6, .widget_recent_entries.text-center h6 {
