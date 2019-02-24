@@ -12011,7 +12011,7 @@ widget_mailchimp
 .widget_mailchimp .form-group + .theme_button,
 .page_header
 .widget_mailchimp .form-group + .theme_button {
-	height: 20px;
+	height: px;
 	width: 40px;
 }
 
@@ -12047,7 +12047,7 @@ widget_pages
 }
 
 .ds .widget_recent_entries h6 a {
-	color: rgba(255, 255, 255, 255);
+	color: rgba(255, 255, 255, 0.8);
 }
 
 .text-center .widget_recent_entries h6, .widget_recent_entries.text-center h6 {
