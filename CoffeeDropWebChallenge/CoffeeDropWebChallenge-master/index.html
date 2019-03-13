@@ -276,6 +276,30 @@
     
     <script src="assets/js/ie10-viewport-bug-workaround.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+    <script type="application/javascript">
+        
+            $.ajax({
+
+		type: 'GET',
+
+		url: "http://coffeedrop.staging2.image-plus.co.uk/api/locations",
+		dataType : 'json',
+                success: function($r) {
+		    /*alert($r);*/
+		    /*console.log($r.data);*/
+		    /*jQuery.each($r.data, function(index, value){
+                console.log(value.coordinates);
+                $myJSON = value.coordinates;
+                console.log($myJSON.latitude);
+            });*/
+            $myJSON = ($r.data);
+		}, error: function($e){
+		    console.log($e.responseText);
+		}
+
+	});
+        
+    </script>
 
     
     <script src="assets/js/custom.js"></script>
@@ -283,42 +307,25 @@
 // Initialize and add the map
 function initMap() {
   // The location of Uluru
-  var uluru = {lat: 53.14, lng: -3.85};
+    var uluru = {lat: 53.14, lng: -3.85};
+    var map = new google.maps.Map(document.getElementById('map'), {zoom: 7, center: uluru});
+    console.log($myJSON);
+    for (var i = 0; i < $myJSON.length; i++) {
+        console.log($myJSON[i].coordinates.latitude);
+        
   // The map, centered at Uluru
-  var map = new google.maps.Map(
-      document.getElementById('map'), {zoom: 4, center: uluru});
   // The marker, positioned at Uluru
-  var marker = new google.maps.Marker({position: {lat: 53.14, lng: -3.85}, map: map, icon: 'assets/images/map-pin.svg', animation: google.maps.Animation.BOUNCE,
-	draggable: true});
-    var mark1 = new google.maps.Marker({position: {lat: 54.25, lng: -3.18}, map: map, animation: google.maps.Animation.BOUNCE,
-	draggable: true});
+        $myJSON[i] = new google.maps.Marker({position: {lat: $myJSON[i].coordinates.latitude, lng: $myJSON[i].coordinates.longitude}, map: map, icon: 'assets/images/map-pin.svg', animation:google.maps.Animation.BOUNCE, draggable: true});
+    /*var mark1 = new google.maps.Marker({position: {lat: 54.25, lng: -3.18}, map: map, icon: 'assets/images/map-pin.svg',  animation: google.maps.Animation.BOUNCE,
+	draggable: true});*/
+        
+    }
+
 }
     </script>
     <script>
     $(document).ready(function(){
-        var coords =
-        $.ajax({
-
-		type: 'GET',
-
-		url: "http://coffeedrop.staging2.image-plus.co.uk/api/locations",
-		dataType : 'json',
-
-            
-        
-
-		success: function($r) {
-		    /*alert($r);*/
-		    /*console.log($r.data);*/
-		    jQuery.each($r.data, function(index, value){
-                console.log(value.coordinates);
-            });
-            
-		}, error: function($e){
-		    console.log($e.responseText);
-		}
-
-	});
+        /*data = apimaps();*/
     });
     
     
